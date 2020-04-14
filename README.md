@@ -10,3 +10,7 @@ Games like Drawful are fun to play remotely with video chat.
 Watch YouTube videos in a 3D world with your friends. [HN Discussion](https://news.ycombinator.com/item?id=22858235).
 
 ![DJ3D](https://i.imgur.com/xnJIMct.png)
+
+# Video Chat
+### [Jitsi Meet](https://meet.jit.si/)
+Account-less, web-only video conferencing. No app downloads or accounts, which makes it easy to use for "public" chats.

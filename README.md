@@ -14,6 +14,8 @@ Watch YouTube videos in a 3D world with your friends. [HN Discussion](https://ne
 ### [Binge Together - Enjoy a movie night with your friends](https://bingetogether.com/)
 Supports Netflix, YouTube, Disney+, Vimeo, Amazon Prime Video. Voice chat. [HN Discussion](https://news.ycombinator.com/item?id=22687086).
 
+![Binge Together](https://i.imgur.com/Robh2FZ.png)
+
 # Video Chat
 ### [Jitsi Meet](https://meet.jit.si/)
 Account-less, web-only video conferencing. No app downloads or accounts, which makes it easy to use for "public" chats.
